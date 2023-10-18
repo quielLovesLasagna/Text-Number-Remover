@@ -9,7 +9,7 @@ const outTextArea = document.getElementById("output");
 // Functions
 // replace all numbers with spaces
 const transformTxt = () => {
-  return inpTextArea.value.replace(/\d+/g, " ");
+  return inpTextArea.value.replace(/\d+/g, "");
 };
 
 // update output textarea with transformed text
