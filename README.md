@@ -2,7 +2,7 @@
 
 Repository name: Text-Number-Remover
 
-Description: This is a simple text transformation tool that replaces all numbers in the input text with spaces.
+Description: This is a simple text transformation tool that removes all numbers in the input text.
 
 Key Features:
 1) Replace numbers with spaces: The tool can take input text and transform it by replacing all numeric digits with spaces.
